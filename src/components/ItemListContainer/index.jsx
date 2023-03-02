@@ -1,5 +1,4 @@
-import '<div className="" />
-<itemslist></itemslist>.css';
+import './itemslist.css';
 
 
 
