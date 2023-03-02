@@ -1,0 +1,15 @@
+
+.itemlist{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    padding: 1em;
+    margin: 1em;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    background: #160101;
+    
+    border: 2px solid #fafafa;
+    }
